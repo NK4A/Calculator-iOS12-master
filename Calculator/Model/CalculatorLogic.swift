@@ -42,6 +42,7 @@ struct CalculatorLogic {
         }
         }
         return nil
+        
     }
 }
 
